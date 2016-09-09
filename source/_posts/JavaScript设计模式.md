@@ -1,7 +1,7 @@
 ---
 title: JavaScript设计模式
 date: 2016-09-08 11:54:41
-tags:
+tags: JavaScript
 ---
 # 设计模式
 ----

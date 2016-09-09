@@ -7,7 +7,7 @@ title: 寒江蓑笠
 subtitle: 孤舟蓑笠翁，独钓寒江雪
 description: Juven的博客
 author: Juven
-language: 中文、英文、javascript、PHP
+language: zh-CN
 timezone:
 
 # URL
@@ -16,7 +16,7 @@ url: http://juven.yesing.org/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-    lang: en
+    lang: zh-CN
 
 # Directory
 source_dir: source
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: random
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
